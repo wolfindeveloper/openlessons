@@ -1,0 +1,62 @@
+body{
+   background-color: lightblue;
+   text-decoration: none;
+   text-align: center;
+   border: 10px solid rgb(118, 206, 235);
+}
+
+footer a{
+   text-decoration: none;
+   color: blue;
+   pading: 50px;
+   margin: 190px;
+   border-radius: 20px;
+   border: 3px solid rgb(0, 255, 47);
+   background-color: rgb(0, 248, 91);
+   
+}
+
+table{
+   border-radius: 10px;
+   margin: 0 auto;
+   padding: 5px;
+}
+
+footer h3{
+   color: rgb(212, 24, 121);
+}
+
+header h2{
+   padding-bottom: 5px;
+}
+
+h1{
+   border: 4px solid rgb(165, 165, 165);
+   border-radius: 25px;
+   background-color: rgb(166, 166, 166);
+}
+
+main p{
+   border-top: 1px solid black;
+   border-bottom: 1px solid black;
+   color: rgb(60, 126, 60);
+}
+
+main h3{
+   color: rgb(6, 6, 105);
+}
+
+footer{
+   padding: 5px 0;
+   background-color: aqua;
+   margin-top: 10px;
+}
+
+.m{
+   border-radius: 10px;
+}
+
+h3 a:hover {
+   color: white;
+   transition: all 0.5s;
+}
